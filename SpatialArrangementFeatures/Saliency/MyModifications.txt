@@ -1,0 +1,1 @@
+Since 'cvprcode' uses SLIC under windows command line, which is not compatible with my code, I did some modification on the original code. This folder contains the modified ones, while 'tools' contains the original ones.
